@@ -1,0 +1,22 @@
+{
+  "name": "node.js",
+  "version": "1.0.0",
+  "main": "http-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Rickelmi",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ifpi-picos/nodejs-api-RickelmiCristiane123.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ifpi-picos/nodejs-api-RickelmiCristiane123/issues"
+  },
+  "homepage": "https://github.com/ifpi-picos/nodejs-api-RickelmiCristiane123#readme",
+  "description": ""
+}
