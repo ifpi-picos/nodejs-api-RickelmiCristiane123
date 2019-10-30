@@ -1,22 +1,17 @@
 {
-  "name": "node.js",
+  "name": "nodejs-api",
   "version": "1.0.0",
-  "main": "http-server.js",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Rickelmi",
   "license": "ISC",
-  "dependencies": {},
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ifpi-picos/nodejs-api-RickelmiCristiane123.git"
-  },
-  "bugs": {
-    "url": "https://github.com/ifpi-picos/nodejs-api-RickelmiCristiane123/issues"
-  },
-  "homepage": "https://github.com/ifpi-picos/nodejs-api-RickelmiCristiane123#readme",
-  "description": ""
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.3.3",
+    "mongoose": "^5.7.7"
+  }
 }
